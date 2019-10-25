@@ -1,0 +1,1 @@
+From quay.io/calico/kube-controllers:v3.9.1
